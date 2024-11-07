@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alfonso-yeste
 - 👀 I’m interested in Data Analytics & Behavorial Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a projects with data anlytics and CRO/UX
+- 🌱 I’m currently performing my Python skills focused in ML
 - 📫 How to reach me ayeste32@gmail.com or https://alfonsoyeste.com/
 
 <!---
